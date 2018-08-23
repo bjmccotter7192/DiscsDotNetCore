@@ -1,0 +1,14 @@
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/bin/Debug/netcoreapp2.1/DiscsApi.deps.json
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/bin/Debug/netcoreapp2.1/DiscsApi.runtimeconfig.json
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/bin/Debug/netcoreapp2.1/DiscsApi.runtimeconfig.dev.json
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/bin/Debug/netcoreapp2.1/DiscsApi.dll
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/bin/Debug/netcoreapp2.1/DiscsApi.pdb
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.csprojAssemblyReference.cache
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.csproj.CoreCompileInputs.cache
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.RazorAssemblyInfo.cache
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.RazorAssemblyInfo.cs
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.AssemblyInfoInputs.cache
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.AssemblyInfo.cs
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.RazorTargetAssemblyInfo.cache
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.dll
+/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.pdb
