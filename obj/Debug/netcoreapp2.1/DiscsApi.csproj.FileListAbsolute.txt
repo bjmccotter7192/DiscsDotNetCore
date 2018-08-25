@@ -12,3 +12,17 @@
 /home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.RazorTargetAssemblyInfo.cache
 /home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.dll
 /home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/Debug/netcoreapp2.1/DiscsApi.pdb
+C:\Projects\DiscsDotNetCore\bin\Debug\netcoreapp2.1\DiscsApi.deps.json
+C:\Projects\DiscsDotNetCore\bin\Debug\netcoreapp2.1\DiscsApi.runtimeconfig.json
+C:\Projects\DiscsDotNetCore\bin\Debug\netcoreapp2.1\DiscsApi.runtimeconfig.dev.json
+C:\Projects\DiscsDotNetCore\bin\Debug\netcoreapp2.1\DiscsApi.dll
+C:\Projects\DiscsDotNetCore\bin\Debug\netcoreapp2.1\DiscsApi.pdb
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.csprojAssemblyReference.cache
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.csproj.CoreCompileInputs.cache
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.RazorAssemblyInfo.cache
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.RazorAssemblyInfo.cs
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.AssemblyInfoInputs.cache
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.AssemblyInfo.cs
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.RazorTargetAssemblyInfo.cache
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.dll
+C:\Projects\DiscsDotNetCore\obj\Debug\netcoreapp2.1\DiscsApi.pdb

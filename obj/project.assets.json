@@ -11500,28 +11500,31 @@
     ]
   },
   "packageFolders": {
-    "/home/bjmccotter/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\bj.mccotter\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/DiscsApi.csproj",
+      "projectUniqueName": "C:\\Projects\\DiscsDotNetCore\\DiscsApi.csproj",
       "projectName": "DiscsApi",
-      "projectPath": "/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/DiscsApi.csproj",
-      "packagesPath": "/home/bjmccotter/.nuget/packages/",
-      "outputPath": "/home/bjmccotter/Projects/DiscsDotNetCore/DiscsApi/obj/",
+      "projectPath": "C:\\Projects\\DiscsDotNetCore\\DiscsApi.csproj",
+      "packagesPath": "C:\\Users\\bj.mccotter\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\DiscsDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/bjmccotter/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\bj.mccotter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://lkc-ss-build/VUNuGetPackageFeed/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
